@@ -1,0 +1,7 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_priority": 3,
+  "num_category": 15,
+  "num_sub_category": 119,
+  "max_length": 128
+}
